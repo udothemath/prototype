@@ -8,6 +8,8 @@ def homepage():
 
     return """
     <h1>Hello Smart Team!</h1>
+    <h2>Work in progress.</h2>
+
     <p>It is currently {time}.</p>
 
     <img src="http://loremflickr.com/600/400">
